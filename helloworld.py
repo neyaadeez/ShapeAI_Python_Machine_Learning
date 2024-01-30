@@ -5,3 +5,6 @@ print(a+b)
 print("hi this is test")
 print("this is the test for git hub merge conflict")
 print("branch 1")
+
+
+print("this is the test for the git branch/ resolve merge conflicts")
